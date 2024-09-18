@@ -10,9 +10,15 @@ El código se encuentra en el archivo *entrega 1.ipynb* y necesita todas las im�
 
 ---
 Saúl Antonio Cruz Pérez
+
 Carlos Mireles Rodríguez
+
 Universidad de las Palmas de Gran Canaria
+
 Escuela de Ingeniería en Informática
+
 Grado de Ingeniería Informática
+
 Visión por Computador
+
 Curso 2024/2025
