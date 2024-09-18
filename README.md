@@ -8,6 +8,18 @@ En esta práctica se pretende introducir el manejo y creación de imágenes medi
 
 El código se encuentra en el archivo *entrega 1.ipynb* y necesita todas las imágenes del directorio para su correcto funcionamiento.
 
+## Resultados
+
+En caso de no querer ejecutarse el código dentro de la carpeta resultados se encuentran las imágenes que deberían mostrarse en ventanas diferentes mediante cv2.
+
+La línea de código utilizada para obtener las imágenes fue:
+
+```python
+cv2.imwrite('imagen.png', img)
+```
+
+No se introdujo en el código final pero mejorar su lectura.
+
 ---
 Saúl Antonio Cruz Pérez  
 Carlos Mireles Rodríguez  
