@@ -10,7 +10,7 @@ El código se encuentra en el archivo *entrega 1.ipynb* y necesita todas las im�
 
 ## Resultados
 
-En caso de no querer ejecutarse el código dentro de la carpeta resultados se encuentran las imágenes que deberían mostrarse en ventanas diferentes mediante cv2.
+En caso de no querer ejecutarse el código dentro de la carpeta *[resultados](resultados)* se encuentran las imágenes que deberían mostrarse en ventanas diferentes mediante cv2.
 
 La línea de código utilizada para obtener las imágenes fue:
 
@@ -18,7 +18,7 @@ La línea de código utilizada para obtener las imágenes fue:
 cv2.imwrite('imagen.png', img)
 ```
 
-No se introdujo en el código final pero mejorar su lectura.
+No se introdujo en el código final paro mejorar su lectura.
 
 ---
 Saúl Antonio Cruz Pérez  
